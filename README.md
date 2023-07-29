@@ -7,7 +7,7 @@ Software Developer
 * 🌍  I'm based in Tunisia
 * 🖥️  See my portfolio at [khaledbenyahya.com](http://khaledbenyahya.com)
 * ✉️  You can contact me at [khaledb.yahya@gmail.com](mailto:khaledb.yahya@gmail.com)
-* 🚀  I'm currently working on [Tenzies.co](https://github.com/kingmathers92/React-Tenzies-Game)
+* 🚀  I'm currently working on [Tenzies](https://kingmathers92.github.io/React-Tenzies-Game/)
 * 🧠  I'm learning React & Nextjs
 * 🤝  I'm open to collaborating on exciting projects as a frontend/backend developer.
 
