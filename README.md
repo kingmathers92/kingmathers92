@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/github/followers/kingmathers92?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
   </a>
   <a href="http://youtube.com/@devstuff92?sub_confirmation=1" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/youtube/channel/views/UCkPSG_rUGJqAXmcajZ0mNMw?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Dhanush Nehru's YouTube channel"/>
+    <img src="https://img.shields.io/youtube/channel/views/UCEA2cmmXXvB6Cx13k3LN8OQ?style=for-the-badge&logo=youtube&label=Youtube Views&color=FF0000" alt="Khaled's YouTube channel"/>
   </a>
 </p>
 
