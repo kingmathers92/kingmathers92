@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=000&style=plastic" alt="Figma" />
 </p>
 
-## 🌐 Connect with me
+## 🌐 Connect
 
 <p align="center">
   <a href="https://github.com/kingmathers92">
@@ -55,7 +55,7 @@
   </a>
 </p>
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kingmathers92&color=00D4FF&style=plastic&label=Profile+Views" alt="Profile Views" />
