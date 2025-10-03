@@ -9,7 +9,7 @@
 - 🌍 Based in Tunisia
 - 🖥️ Check out my portfolio: [khaledbenyahya.com](http://khaledbenyahya.com)
 - ✉️ Reach me at: [khaledb.yahya@gmail.com](mailto:khaledb.yahya@gmail.com)
-- 🚀 Currently working on: [Ballagh - بلَّغ](https://github.com/kingmathers92/ballagh-app)
+- 🚀 Currently working on: [Thamarat Al-Awrak](https://github.com/kingmathers92/bookstore)
 - 🧠 Learning: React & Next.js
 - 🤝 Open to collaborate on exciting frontend/backend projects
 
