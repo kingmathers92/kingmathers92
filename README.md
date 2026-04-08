@@ -90,28 +90,4 @@ A CLI/web tool for downloading content from MEGA links — fast, simple, no fuss
   <img src="https://github-profile-trophy.vercel.app/?username=kingmathers92&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
 </p>
 
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://github.com/kingmathers92">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=00D4FF&style=plastic" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/khaledbenyahya">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?logo=linkedin&logoColor=0077B5&style=plastic" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/khaledbenyahya_">
-    <img src="https://img.shields.io/badge/Twitter-000000?logo=twitter&logoColor=1DA1F2&style=plastic" alt="Twitter" />
-  </a>
-  <a href="https://khaledbenyahya.hashnode.dev">
-    <img src="https://img.shields.io/badge/Hashnode-000000?logo=hashnode&logoColor=2962FF&style=plastic" alt="Hashnode" />
-  </a>
-  <a href="https://youtube.com/@devstuff92?sub_confirmation=1">
-    <img src="https://img.shields.io/badge/YouTube-FF2E2E?logo=youtube&logoColor=000000&style=plastic" alt="YouTube" />
-  </a>
-</p>
-
----
-
 <p align="center"><i>Always shipping. Always learning.</i></p>
