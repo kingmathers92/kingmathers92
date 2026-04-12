@@ -74,8 +74,7 @@ A CLI/web tool for downloading content from MEGA links — fast, simple, no fuss
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingmathers92&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=kingmathers92&theme=radical&hide_border=true" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kingmathers92&theme=radical" />
 </p>
 
 <p align="center">
