@@ -70,24 +70,24 @@ A CLI/web tool for downloading content from MEGA links — fast, simple, no fuss
 ## 📊 Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kingmathers92&color=00D4FF&style=plastic&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=kingmathers92&color=00D4FF&style=plastic&label=Profile+Views" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kingmathers92&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kingmathers92&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kingmathers92&theme=radical&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=kingmathers92&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmathers92&theme=radical&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kingmathers92&theme=radical&hide_border=true&layout=compact&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmathers92&theme=redical&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kingmathers92&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kingmathers92&theme=radical&no-frame=true&row=1&column=6" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kingmathers92&theme=radical&no-frame=true&row=1&column=6" />
 </p>
 
 <p align="center"><i>Always shipping. Always learning.</i></p>
