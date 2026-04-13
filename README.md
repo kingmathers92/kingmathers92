@@ -75,7 +75,7 @@ A CLI/web tool for downloading content from MEGA links — fast, simple, no fuss
   <img src="https://komarev.com/ghpvc/?username=kingmathers92&color=00D4FF&style=plastic&label=Profile+Views" />
 </p>
 
-### 🔥 Streak Stats (this is what you were missing)
+### 🔥 Streak Stats
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=kingmathers92&theme=radical&hide_border=true" />
 </p>
