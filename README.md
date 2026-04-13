@@ -75,10 +75,7 @@ A CLI/web tool for downloading content from MEGA links — fast, simple, no fuss
 
 <p align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kingmathers92&theme=radical" />
-</p>
-
-<p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingmathers92&theme=radical"
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kingmathers92&theme=radical" />
 </p>
 
 <p align="center">
