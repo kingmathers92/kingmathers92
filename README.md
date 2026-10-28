@@ -67,14 +67,6 @@
 
 </div>
 
-<div align="center">
-
-  [![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-ff0033?style=flat-square&labelColor=0d0d0d&logo=googlechrome&logoColor=ff0033)](https://khaledbenyahya.com)
-  [![Email](https://img.shields.io/badge/EMAIL-GET%20IN%20TOUCH-ff0033?style=flat-square&labelColor=0d0d0d&logo=gmail&logoColor=ff0033)](mailto:khaledb.yahya@gmail.com)
-  [![Writing](https://img.shields.io/badge/WRITING-READ%20MY%20POSTS-ff0033?style=flat-square&labelColor=0d0d0d&logo=hashnode&logoColor=ff0033)](https://khaledbenyahya.hashnode.dev)
-
-</div>
-
 <br>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
